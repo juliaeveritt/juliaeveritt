@@ -1,5 +1,5 @@
 ### Hi there! I'm Julia👋
-I'm currently pursuing my Master's of Data Science at UBC, and recently completed my Bachelor of Applied Science in Engineering Physics & Computing at Queen's University.🌌🌠🌟 I'm interested in data science, computer vision, and climate tech.
+I'm currently pursuing my Master's of Data Science at UBC, and recently completed my Bachelor of Applied Science in Engineering Physics & Computing at Queen's University.🌌🌠🌟 I'm interested in data science, computer vision, and sustainability.
 <!--
 **juliaeveritt/juliaeveritt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
